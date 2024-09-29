@@ -108,7 +108,6 @@ Because of this, more agencies are interested in programatically monitoring Twit
 
   - Universal Sentence Encoder model obtained from Deep Learning approach is used for deployment
   - Micro Web Framework [Flask](https://flask.palletsprojects.com/) is used to create web app 
-  - Render is used to deploy the our Web-app
 
 # Scope of Improvemment
 
@@ -118,7 +117,7 @@ Because of this, more agencies are interested in programatically monitoring Twit
 
 # Conclusion
 
-The Data analysis and modelling was sucessfully done, and the Deep Learning model was deployed on [Render]()
+The Data analysis and modelling was sucessfully done.
 
 Please do ⭐ the repository, if it helped you in anyway.
 
